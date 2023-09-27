@@ -5,4 +5,4 @@
 - 🤔 Procurando ajuda com a vida.
 - 😄 Pronomes: Ele/Dele.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?I4F2=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
